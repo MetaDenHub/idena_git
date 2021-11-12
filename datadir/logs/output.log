@@ -1,0 +1,234 @@
+INFO [11-12|15:27:30.249] Idena node is starting                   version=0.27.4
+INFO [11-12|15:27:31.982] Ipfs initialized                         peerId=QmNemfdVxrF5bffTe5wcoNpLRBCxSRdr1nXQRURxUnqKYq
+WARN [11-12|15:27:31.987] cannot parse subscriptions.json          err="unexpected end of JSON input"
+INFO [11-12|15:27:34.474] Chain initialized                        block=0x2262530161b3e04e4d6e48bf316be40fa9ba26aae26f8eca1b27c9dd1706a641 height=3417452
+INFO [11-12|15:27:34.475] Coinbase address                         addr=0x5F597cFFf3Feb6b2Fcf4f2a9d57eD947C5b5D96e
+INFO [11-12|15:27:34.608] Start consensus protocol                 pubKey=0x04c59638d98f61a9897ca8c76255e92d7b7d1e3277a4942acb6e7ee2e2168e5f1694d89105dcbb0e7d60460df78eeb6a6c52ba713d759b07415f0ae4fb128fc501
+INFO [11-12|15:27:34.609] Peers are not found. Assume node is synchronized component=downloader
+INFO [11-12|15:27:34.610] HTTP endpoint opened                     url=http://localhost:9009 cors=* vhosts=localhost
+INFO [11-12|15:27:39.610] Peers are not found. Assume node is synchronized component=downloader
+INFO [11-12|15:27:44.613] Peers are not found. Assume node is synchronized component=downloader
+INFO [11-12|15:27:49.202] Peer connected                           id=QmZpRsvgVBa6rcjQ6TAWoXKeGQXqvi2Vgpu6TCR1u6AzU4 inbound=true shardId=3
+INFO [11-12|15:27:49.615] Found manifest                           component=downloader height=3619412
+INFO [11-12|15:27:49.615] Fast sync will be used                   component=downloader
+INFO [11-12|15:27:49.979] Start process batch                      component=downloader from=3417453 to=3418453
+INFO [11-12|15:27:54.456] Finish process batch                     component=downloader from=3417453 to=3418453
+INFO [11-12|15:27:54.457] Start process batch                      component=downloader from=3418454 to=3419454
+INFO [11-12|15:27:56.365] Finish process batch                     component=downloader from=3418454 to=3419454
+INFO [11-12|15:27:56.365] Start process batch                      component=downloader from=3419455 to=3420455
+INFO [11-12|15:27:58.287] Finish process batch                     component=downloader from=3419455 to=3420455
+INFO [11-12|15:27:58.287] Start process batch                      component=downloader from=3420456 to=3421456
+INFO [11-12|15:28:00.309] Finish process batch                     component=downloader from=3420456 to=3421456
+INFO [11-12|15:28:00.309] Start process batch                      component=downloader from=3421457 to=3422457
+INFO [11-12|15:28:02.240] Finish process batch                     component=downloader from=3421457 to=3422457
+INFO [11-12|15:28:02.240] Start process batch                      component=downloader from=3422458 to=3423458
+INFO [11-12|15:28:04.158] Finish process batch                     component=downloader from=3422458 to=3423458
+INFO [11-12|15:28:04.159] Start process batch                      component=downloader from=3423459 to=3424459
+INFO [11-12|15:28:06.028] Finish process batch                     component=downloader from=3423459 to=3424459
+INFO [11-12|15:28:06.028] Start process batch                      component=downloader from=3424460 to=3425460
+INFO [11-12|15:28:07.855] Finish process batch                     component=downloader from=3424460 to=3425460
+INFO [11-12|15:28:07.855] Start process batch                      component=downloader from=3425461 to=3426461
+INFO [11-12|15:28:09.779] Peer connected                           id=QmZz9fiNHF1PrGaREpBJSbv7HoHxwhZR4RtTXNFuWJNjT7 inbound=false shardId=0
+INFO [11-12|15:28:09.783] Peer disconnected                        id=QmZz9fiNHF1PrGaREpBJSbv7HoHxwhZR4RtTXNFuWJNjT7
+INFO [11-12|15:28:09.787] Finish process batch                     component=downloader from=3425461 to=3426461
+INFO [11-12|15:28:09.787] Start process batch                      component=downloader from=3426462 to=3427462
+INFO [11-12|15:28:09.854] Peer connected                           id=QmfDraQCJViuyirw5eM33wWX4KAmu9ga6MBb1tacAfZFsN inbound=false shardId=1
+INFO [11-12|15:28:09.910] Peer connected                           id=QmVFWmPb7JeHXep6ni9LLrYD3aEcx2GnhAmRvBe86fw9k6 inbound=false shardId=4
+INFO [11-12|15:28:09.969] Peer connected                           id=QmQo2FZYcr98jai7GRRbCc39R9D2yLSTaisQmq3FCMqYvg inbound=false shardId=3
+INFO [11-12|15:28:11.642] Finish process batch                     component=downloader from=3426462 to=3427462
+INFO [11-12|15:28:11.642] Start process batch                      component=downloader from=3427463 to=3428463
+INFO [11-12|15:28:11.689] Peer connected                           id=QmYounUwnMQbAhYmwUVH7hydsMg9dmnUSBXSmaXBosUMG3 inbound=true  shardId=2
+INFO [11-12|15:28:11.738] Peer disconnected                        id=QmYounUwnMQbAhYmwUVH7hydsMg9dmnUSBXSmaXBosUMG3
+INFO [11-12|15:28:13.048] Finish process batch                     component=downloader from=3427463 to=3428463
+INFO [11-12|15:28:13.051] Start process batch                      component=downloader from=3428464 to=3429464
+INFO [11-12|15:28:14.849] Finish process batch                     component=downloader from=3428464 to=3429464
+INFO [11-12|15:28:14.849] Start process batch                      component=downloader from=3429465 to=3430465
+INFO [11-12|15:28:16.877] Finish process batch                     component=downloader from=3429465 to=3430465
+INFO [11-12|15:28:16.877] Start process batch                      component=downloader from=3430466 to=3431466
+INFO [11-12|15:28:18.880] Finish process batch                     component=downloader from=3430466 to=3431466
+INFO [11-12|15:28:18.880] Start process batch                      component=downloader from=3431467 to=3432467
+INFO [11-12|15:28:19.698] Peer connected                           id=QmQhAQSZzT8iaRg62BFKSTA96SM1sYAqzbztv2xZHawhTf inbound=false shardId=4
+INFO [11-12|15:28:20.845] Finish process batch                     component=downloader from=3431467 to=3432467
+INFO [11-12|15:28:20.846] Start process batch                      component=downloader from=3432468 to=3433468
+INFO [11-12|15:28:22.803] Peer connected                           id=QmVNjZ3GyaTSD6RDq4eKPRtHEoyUE2Qr1zkYX5MhcDKVN9 inbound=true  shardId=2
+INFO [11-12|15:28:22.835] Finish process batch                     component=downloader from=3432468 to=3433468
+INFO [11-12|15:28:22.835] Start process batch                      component=downloader from=3433469 to=3434469
+INFO [11-12|15:28:22.850] Peer disconnected                        id=QmVNjZ3GyaTSD6RDq4eKPRtHEoyUE2Qr1zkYX5MhcDKVN9
+INFO [11-12|15:28:24.979] Finish process batch                     component=downloader from=3433469 to=3434469
+INFO [11-12|15:28:24.979] Start process batch                      component=downloader from=3434470 to=3435470
+INFO [11-12|15:28:26.787] Finish process batch                     component=downloader from=3434470 to=3435470
+INFO [11-12|15:28:26.787] Start process batch                      component=downloader from=3435471 to=3436471
+INFO [11-12|15:28:28.523] Finish process batch                     component=downloader from=3435471 to=3436471
+INFO [11-12|15:28:28.524] Start process batch                      component=downloader from=3436472 to=3437472
+INFO [11-12|15:28:30.180] Finish process batch                     component=downloader from=3436472 to=3437472
+INFO [11-12|15:28:30.180] Start process batch                      component=downloader from=3437473 to=3438473
+INFO [11-12|15:28:31.963] Finish process batch                     component=downloader from=3437473 to=3438473
+INFO [11-12|15:28:31.963] Start process batch                      component=downloader from=3438474 to=3439474
+INFO [11-12|15:28:34.037] Finish process batch                     component=downloader from=3438474 to=3439474
+INFO [11-12|15:28:34.037] Start process batch                      component=downloader from=3439475 to=3440475
+INFO [11-12|15:28:35.931] Finish process batch                     component=downloader from=3439475 to=3440475
+INFO [11-12|15:28:35.932] Start process batch                      component=downloader from=3440476 to=3441476
+INFO [11-12|15:28:38.047] Finish process batch                     component=downloader from=3440476 to=3441476
+INFO [11-12|15:28:38.048] Start process batch                      component=downloader from=3441477 to=3442477
+INFO [11-12|15:28:40.386] Finish process batch                     component=downloader from=3441477 to=3442477
+INFO [11-12|15:28:40.386] Start process batch                      component=downloader from=3442478 to=3443478
+INFO [11-12|15:28:42.426] Finish process batch                     component=downloader from=3442478 to=3443478
+INFO [11-12|15:28:42.426] Start process batch                      component=downloader from=3443479 to=3444479
+INFO [11-12|15:28:44.360] Finish process batch                     component=downloader from=3443479 to=3444479
+INFO [11-12|15:28:44.360] Start process batch                      component=downloader from=3444480 to=3445480
+INFO [11-12|15:28:46.474] Finish process batch                     component=downloader from=3444480 to=3445480
+INFO [11-12|15:28:46.474] Start process batch                      component=downloader from=3445481 to=3446481
+INFO [11-12|15:28:48.643] Finish process batch                     component=downloader from=3445481 to=3446481
+INFO [11-12|15:28:48.643] Start process batch                      component=downloader from=3446482 to=3447482
+INFO [11-12|15:28:50.723] Finish process batch                     component=downloader from=3446482 to=3447482
+INFO [11-12|15:28:50.723] Start process batch                      component=downloader from=3447483 to=3448483
+INFO [11-12|15:28:52.603] Finish process batch                     component=downloader from=3447483 to=3448483
+INFO [11-12|15:28:52.604] Start process batch                      component=downloader from=3448484 to=3449484
+INFO [11-12|15:28:54.603] Finish process batch                     component=downloader from=3448484 to=3449484
+INFO [11-12|15:28:54.603] Start process batch                      component=downloader from=3449485 to=3450485
+INFO [11-12|15:28:56.403] Finish process batch                     component=downloader from=3449485 to=3450485
+INFO [11-12|15:28:56.403] Start process batch                      component=downloader from=3450486 to=3451486
+INFO [11-12|15:28:58.536] Finish process batch                     component=downloader from=3450486 to=3451486
+INFO [11-12|15:28:58.537] Start process batch                      component=downloader from=3451487 to=3452487
+INFO [11-12|15:29:00.680] Finish process batch                     component=downloader from=3451487 to=3452487
+INFO [11-12|15:29:00.680] Start process batch                      component=downloader from=3452488 to=3453488
+INFO [11-12|15:29:02.523] Finish process batch                     component=downloader from=3452488 to=3453488
+INFO [11-12|15:29:02.523] Start process batch                      component=downloader from=3453489 to=3454489
+INFO [11-12|15:29:04.456] Finish process batch                     component=downloader from=3453489 to=3454489
+INFO [11-12|15:29:04.456] Start process batch                      component=downloader from=3454490 to=3455490
+INFO [11-12|15:29:06.356] Finish process batch                     component=downloader from=3454490 to=3455490
+INFO [11-12|15:29:06.357] Start process batch                      component=downloader from=3455491 to=3456491
+INFO [11-12|15:29:08.148] Finish process batch                     component=downloader from=3455491 to=3456491
+INFO [11-12|15:29:08.148] Start process batch                      component=downloader from=3456492 to=3457492
+INFO [11-12|15:29:09.919] Finish process batch                     component=downloader from=3456492 to=3457492
+INFO [11-12|15:29:09.920] Start process batch                      component=downloader from=3457493 to=3458493
+INFO [11-12|15:29:11.720] Finish process batch                     component=downloader from=3457493 to=3458493
+INFO [11-12|15:29:11.720] Start process batch                      component=downloader from=3458494 to=3459494
+INFO [11-12|15:29:13.626] Finish process batch                     component=downloader from=3458494 to=3459494
+INFO [11-12|15:29:13.626] Start process batch                      component=downloader from=3459495 to=3460495
+INFO [11-12|15:29:15.599] Finish process batch                     component=downloader from=3459495 to=3460495
+INFO [11-12|15:29:15.600] Start process batch                      component=downloader from=3460496 to=3461496
+INFO [11-12|15:29:17.466] Finish process batch                     component=downloader from=3460496 to=3461496
+INFO [11-12|15:29:17.466] Start process batch                      component=downloader from=3461497 to=3462497
+INFO [11-12|15:29:19.607] Finish process batch                     component=downloader from=3461497 to=3462497
+INFO [11-12|15:29:19.607] Start process batch                      component=downloader from=3462498 to=3463498
+INFO [11-12|15:29:21.688] Finish process batch                     component=downloader from=3462498 to=3463498
+INFO [11-12|15:29:21.689] Start process batch                      component=downloader from=3463499 to=3464499
+INFO [11-12|15:29:23.471] Finish process batch                     component=downloader from=3463499 to=3464499
+INFO [11-12|15:29:23.471] Start process batch                      component=downloader from=3464500 to=3465500
+INFO [11-12|15:29:24.599] Peer connected                           id=QmQ6haaTdMmHBdwbykjRoUtYP8y9R5F7CBcMMQ7h5kZuq9 inbound=true  shardId=0
+INFO [11-12|15:29:25.533] Finish process batch                     component=downloader from=3464500 to=3465500
+INFO [11-12|15:29:25.533] Start process batch                      component=downloader from=3465501 to=3466501
+INFO [11-12|15:29:27.422] Finish process batch                     component=downloader from=3465501 to=3466501
+INFO [11-12|15:29:27.422] Start process batch                      component=downloader from=3466502 to=3467502
+INFO [11-12|15:29:29.260] Finish process batch                     component=downloader from=3466502 to=3467502
+INFO [11-12|15:29:29.260] Start process batch                      component=downloader from=3467503 to=3468503
+INFO [11-12|15:29:31.059] Finish process batch                     component=downloader from=3467503 to=3468503
+INFO [11-12|15:29:31.059] Start process batch                      component=downloader from=3468504 to=3469504
+INFO [11-12|15:29:33.025] Finish process batch                     component=downloader from=3468504 to=3469504
+INFO [11-12|15:29:33.026] Start process batch                      component=downloader from=3469505 to=3470505
+INFO [11-12|15:29:35.095] Peer disconnected                        id=QmZpRsvgVBa6rcjQ6TAWoXKeGQXqvi2Vgpu6TCR1u6AzU4
+INFO [11-12|15:29:35.254] Finish process batch                     component=downloader from=3469505 to=3470505
+INFO [11-12|15:29:35.254] Start process batch                      component=downloader from=3470506 to=3471506
+INFO [11-12|15:29:35.255] All blocks were requested. Wait for applying of blocks component=downloader
+INFO [11-12|15:29:37.332] Finish process batch                     component=downloader from=3470506 to=3471506
+INFO [11-12|15:29:37.333] Start process batch                      component=downloader from=3471507 to=3472507
+INFO [11-12|15:29:39.579] Finish process batch                     component=downloader from=3471507 to=3472507
+INFO [11-12|15:29:39.579] Start process batch                      component=downloader from=3472508 to=3473508
+INFO [11-12|15:29:41.809] Finish process batch                     component=downloader from=3472508 to=3473508
+INFO [11-12|15:29:41.809] Start process batch                      component=downloader from=3473509 to=3474509
+INFO [11-12|15:29:44.005] Finish process batch                     component=downloader from=3473509 to=3474509
+INFO [11-12|15:29:44.006] Start process batch                      component=downloader from=3474510 to=3475510
+INFO [11-12|15:29:46.376] Finish process batch                     component=downloader from=3474510 to=3475510
+INFO [11-12|15:29:46.376] Start process batch                      component=downloader from=3475511 to=3476511
+INFO [11-12|15:29:49.149] Finish process batch                     component=downloader from=3475511 to=3476511
+INFO [11-12|15:29:49.150] Start process batch                      component=downloader from=3476512 to=3477512
+INFO [11-12|15:29:50.197] Peer connected                           id=QmdngMZBJ7DhH86KtQAqdYVWVxaKQsswbA3QJXNqEWDjsC inbound=true  shardId=0
+INFO [11-12|15:29:50.230] Peer disconnected                        id=QmdngMZBJ7DhH86KtQAqdYVWVxaKQsswbA3QJXNqEWDjsC
+INFO [11-12|15:29:51.317] Finish process batch                     component=downloader from=3476512 to=3477512
+INFO [11-12|15:29:51.317] Start process batch                      component=downloader from=3477513 to=3478513
+INFO [11-12|15:29:52.720] Peer connected                           id=QmcJQWATx6dW1ty2BXyJEzUuQS14YRTtRCdpvN4CF4ZhWu inbound=true  shardId=3
+INFO [11-12|15:29:52.774] Peer disconnected                        id=QmcJQWATx6dW1ty2BXyJEzUuQS14YRTtRCdpvN4CF4ZhWu
+INFO [11-12|15:29:53.397] Finish process batch                     component=downloader from=3477513 to=3478513
+INFO [11-12|15:29:53.397] Start process batch                      component=downloader from=3478514 to=3479514
+INFO [11-12|15:29:54.629] Peer connected                           id=Qme2sECtgLBDHCw2Soc2hPqA3A6uTsHbWXK65bHKs8KfMY inbound=true  shardId=2
+INFO [11-12|15:29:54.696] Peer disconnected                        id=Qme2sECtgLBDHCw2Soc2hPqA3A6uTsHbWXK65bHKs8KfMY
+INFO [11-12|15:29:55.249] Peer connected                           id=QmanTwW8BP7jnE2gBWCJmKWM9ffAgV2mgLfV3VMbaam6hY inbound=true  shardId=0
+INFO [11-12|15:29:55.775] Finish process batch                     component=downloader from=3478514 to=3479514
+INFO [11-12|15:29:55.776] Start process batch                      component=downloader from=3479515 to=3480515
+INFO [11-12|15:29:57.767] Finish process batch                     component=downloader from=3479515 to=3480515
+INFO [11-12|15:29:57.767] Start process batch                      component=downloader from=3480516 to=3481516
+INFO [11-12|15:30:00.026] Finish process batch                     component=downloader from=3480516 to=3481516
+ERROR[11-12|15:30:00.026] Post consuming error                     component=downloader err="preliminary head is lower than manifest's head"
+INFO [11-12|15:30:00.693] Peer connected                           id=QmUqGucRuSLiHVYqzNXrGYoJLwQVndxc7ga92SCU6HeHaJ inbound=true  shardId=4
+INFO [11-12|15:30:05.027] Found manifest                           component=downloader height=3619412
+INFO [11-12|15:30:05.028] Fast sync will be used                   component=downloader
+INFO [11-12|15:30:05.243] Start process batch                      component=downloader from=3481501 to=3482501
+INFO [11-12|15:30:05.795] Peer connected                           id=Qmf26twCicUdWf4FdtPJbqQhS1Tc875r2ZsJW1FK6R22Ss inbound=true  shardId=1
+INFO [11-12|15:30:07.599] Peer connected                           id=QmS7rTxmZeLQ3yCa1ns2RaBBKRm8tD2Bi7a8n5pa74dVfa inbound=true  shardId=2
+INFO [11-12|15:30:08.963] Peer connected                           id=QmUcoT4LirUugQ33mhUFUobgjC24Ypz1jP5bmA8WF5btJA inbound=true  shardId=3
+INFO [11-12|15:30:13.493] Peer connected                           id=QmamSddNt4AnMU2GCcYq2zQvMujDiMof5GFcNKdCKKExdL inbound=true  shardId=2
+INFO [11-12|15:30:13.534] Peer disconnected                        id=QmamSddNt4AnMU2GCcYq2zQvMujDiMof5GFcNKdCKKExdL
+INFO [11-12|15:30:14.750] Peer connected                           id=QmRPrmQYoX6zCkmrXk7rSy4HijXgVY7WrEWYdMzRJwsnj8 inbound=true  shardId=4
+INFO [11-12|15:30:14.823] Peer disconnected                        id=QmRPrmQYoX6zCkmrXk7rSy4HijXgVY7WrEWYdMzRJwsnj8
+INFO [11-12|15:30:15.249] Peer connected                           id=Qma9TRZzAzt5GhxMxkhm3PB549TpcFm7kpuFffwmwuZ8st inbound=true  shardId=0
+INFO [11-12|15:30:15.250] Peer disconnected                        id=Qma9TRZzAzt5GhxMxkhm3PB549TpcFm7kpuFffwmwuZ8st
+INFO [11-12|15:30:15.633] Peer connected                           id=QmWKXJzEGYxSCumr9gxGZKoKENmxxVao4e7D5E3ZauEpTy inbound=true  shardId=2
+INFO [11-12|15:30:15.903] Peer connected                           id=Qmau8KGt1ZwVvsVc4nakQCK7dzPG2bGRNwj5Eoa32gM7jg inbound=true  shardId=4
+INFO [11-12|15:30:15.905] Peer disconnected                        id=Qmau8KGt1ZwVvsVc4nakQCK7dzPG2bGRNwj5Eoa32gM7jg
+INFO [11-12|15:30:16.713] Peer disconnected                        id=QmWKXJzEGYxSCumr9gxGZKoKENmxxVao4e7D5E3ZauEpTy
+INFO [11-12|15:30:16.893] Peer connected                           id=QmTs7rQsqQX9WrLdVtisJ8sg8MV3rNC2UUaBFnki2atzb3 inbound=true  shardId=4
+INFO [11-12|15:30:16.895] Peer disconnected                        id=QmTs7rQsqQX9WrLdVtisJ8sg8MV3rNC2UUaBFnki2atzb3
+INFO [11-12|15:30:18.413] Peer connected                           id=QmWCD77ZtiaqxR6UVvURA9F7BQF5Nn5WYuhLhQ1jjUYNpu inbound=true  shardId=2
+INFO [11-12|15:30:19.557] Peer connected                           id=QmYrkyMJHVXQuvi6axH4mQiJyDxcnS2LSLZMWvu6m4sXWv inbound=true  shardId=2
+INFO [11-12|15:30:19.573] Peer disconnected                        id=QmWCD77ZtiaqxR6UVvURA9F7BQF5Nn5WYuhLhQ1jjUYNpu
+INFO [11-12|15:30:21.456] Peer disconnected                        id=QmanTwW8BP7jnE2gBWCJmKWM9ffAgV2mgLfV3VMbaam6hY
+INFO [11-12|15:30:21.711] Finish process batch                     component=downloader from=3481501 to=3482501
+INFO [11-12|15:30:21.711] Start process batch                      component=downloader from=3482502 to=3483502
+INFO [11-12|15:30:23.161] Peer disconnected                        id=QmQo2FZYcr98jai7GRRbCc39R9D2yLSTaisQmq3FCMqYvg
+INFO [11-12|15:30:24.366] Finish process batch                     component=downloader from=3482502 to=3483502
+INFO [11-12|15:30:24.366] Start process batch                      component=downloader from=3483503 to=3484503
+INFO [11-12|15:30:26.999] Finish process batch                     component=downloader from=3483503 to=3484503
+INFO [11-12|15:30:26.999] Start process batch                      component=downloader from=3484504 to=3485504
+INFO [11-12|15:30:28.171] Peer connected                           id=QmVzo4s761uMtVumoVxw5KtYsqinscrjoaiLL3e33kWJuJ inbound=true  shardId=1
+INFO [11-12|15:30:29.184] Peer connected                           id=QmSB2dS5vwH7HDeGr4ba7674Y2DaEDZut4kGFmGbWYcpDq inbound=true  shardId=2
+INFO [11-12|15:30:30.288] Peer disconnected                        id=QmYrkyMJHVXQuvi6axH4mQiJyDxcnS2LSLZMWvu6m4sXWv
+INFO [11-12|15:30:30.368] Peer connected                           id=QmNPmrVa3PEJs66GbD5cKiRgyGXNrvsjzargrHX4quT2dn inbound=true  shardId=1
+INFO [11-12|15:30:30.873] Peer disconnected                        id=QmQ6haaTdMmHBdwbykjRoUtYP8y9R5F7CBcMMQ7h5kZuq9
+INFO [11-12|15:30:31.294] Finish process batch                     component=downloader from=3484504 to=3485504
+INFO [11-12|15:30:31.294] Start process batch                      component=downloader from=3485505 to=3486505
+INFO [11-12|15:30:32.828] Peer connected                           id=QmScsnX79NuAoaoBR9zF19qZxGMji5yzvJDTCB15bBUaVm inbound=true  shardId=3
+INFO [11-12|15:30:34.657] Peer connected                           id=QmNQNRkQ6k3q4zXeyKPhFePX5vx7LYTN5SEBbyESxRSdcg inbound=false shardId=0
+INFO [11-12|15:30:40.301] Finish process batch                     component=downloader from=3485505 to=3486505
+INFO [11-12|15:30:40.301] Start process batch                      component=downloader from=3486506 to=3487506
+INFO [11-12|15:30:43.649] Finish process batch                     component=downloader from=3486506 to=3487506
+INFO [11-12|15:30:43.649] Start process batch                      component=downloader from=3487507 to=3488507
+INFO [11-12|15:30:46.255] Finish process batch                     component=downloader from=3487507 to=3488507
+INFO [11-12|15:30:46.255] Start process batch                      component=downloader from=3488508 to=3489508
+INFO [11-12|15:30:48.981] Finish process batch                     component=downloader from=3488508 to=3489508
+INFO [11-12|15:30:48.981] Start process batch                      component=downloader from=3489509 to=3490509
+INFO [11-12|15:30:51.803] Finish process batch                     component=downloader from=3489509 to=3490509
+INFO [11-12|15:30:51.803] Start process batch                      component=downloader from=3490510 to=3491510
+INFO [11-12|15:30:54.375] Finish process batch                     component=downloader from=3490510 to=3491510
+INFO [11-12|15:30:54.375] Start process batch                      component=downloader from=3491511 to=3492511
+INFO [11-12|15:30:56.582] Finish process batch                     component=downloader from=3491511 to=3492511
+INFO [11-12|15:30:56.582] Start process batch                      component=downloader from=3492512 to=3493512
+INFO [11-12|15:30:59.236] Finish process batch                     component=downloader from=3492512 to=3493512
+INFO [11-12|15:30:59.237] Start process batch                      component=downloader from=3493513 to=3494513
+INFO [11-12|15:31:01.688] Finish process batch                     component=downloader from=3493513 to=3494513
+INFO [11-12|15:31:01.689] Start process batch                      component=downloader from=3494514 to=3495514
+INFO [11-12|15:31:02.922] Peer disconnected                        id=QmUqGucRuSLiHVYqzNXrGYoJLwQVndxc7ga92SCU6HeHaJ
+INFO [11-12|15:31:04.109] Finish process batch                     component=downloader from=3494514 to=3495514
+INFO [11-12|15:31:04.110] Start process batch                      component=downloader from=3495515 to=3496515
+INFO [11-12|15:31:04.393] Peer disconnected                        id=QmfDraQCJViuyirw5eM33wWX4KAmu9ga6MBb1tacAfZFsN
+INFO [11-12|15:31:04.837] Peer connected                           id=QmTTnnfX9c86PknuesxFQ6KjofSSVrszAJK5bDug1D9cGd inbound=false shardId=3
+INFO [11-12|15:31:05.120] Peer connected                           id=QmWNJ9yJcHgpQNxSDaCirDAKBC5LfRMFhPRwiykYgnXaaJ inbound=true  shardId=2
+INFO [11-12|15:31:05.144] Peer disconnected                        id=QmWNJ9yJcHgpQNxSDaCirDAKBC5LfRMFhPRwiykYgnXaaJ
+INFO [11-12|15:31:06.205] Peer disconnected                        id=QmNQNRkQ6k3q4zXeyKPhFePX5vx7LYTN5SEBbyESxRSdcg
+INFO [11-12|15:31:06.279] Finish process batch                     component=downloader from=3495515 to=3496515
+INFO [11-12|15:31:06.279] Start process batch                      component=downloader from=3496516 to=3497516
+INFO [11-12|15:31:08.025] Peer connected                           id=QmP8zXq1bKtMex1ENZoGUKgnWFYnxwD7kLhXCvFuwq4dUK inbound=true  shardId=3
+INFO [11-12|15:31:08.819] Finish process batch                     component=downloader from=3496516 to=3497516
+INFO [11-12|15:31:08.819] Start process batch                      component=downloader from=3497517 to=3498517
+INFO [11-12|15:31:12.675] Finish process batch                     component=downloader from=3497517 to=3498517
+INFO [11-12|15:31:12.675] Start process batch                      component=downloader from=3498518 to=3499518
